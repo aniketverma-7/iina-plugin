@@ -16,5 +16,7 @@
   ],
   "allowedDomains": ["*"],
   "preferencesPage": "pref.html",
-  "preferenceDefaults": {}
+  "preferenceDefaults": {},
+  "ghRepo": "aniketverma-7/AVHashSubtitlePlugin",
+  "ghVersion": 1
 }
